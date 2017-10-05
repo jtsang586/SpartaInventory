@@ -14,8 +14,4 @@ class SpartaInventoryLogsPage
     click_button('Checkout an item')
   end
 
-  def click_log_out
-    click_link('Logout')
-  end
-
 end

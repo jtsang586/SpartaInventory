@@ -26,4 +26,8 @@ class SpartaInventoryNavBar
     click_link('Sparta Global')
   end
 
+  def click_new_academy
+    click_link('New Academy')
+  end
+
 end
