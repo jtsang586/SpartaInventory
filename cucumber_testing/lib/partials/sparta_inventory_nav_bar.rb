@@ -15,11 +15,11 @@ class SpartaInventoryNavBar
   end
 
   def click_items
-    click_link('items')
+    click_link('Items')
   end
 
   def click_checkout_item
-    click_link('Checkout item')
+    click_link('Checkout Item')
   end
 
   def click_sparta_global
