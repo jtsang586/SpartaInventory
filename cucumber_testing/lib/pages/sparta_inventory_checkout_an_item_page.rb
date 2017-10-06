@@ -26,5 +26,4 @@ class SpartaInventoryCheckoutAnItemPage
     click_on('Checkout')
   end
 
-
 end
