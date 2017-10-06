@@ -19,7 +19,7 @@ class SpartaInventorySignInPage
   end
 
   def click_submit
-    click_on('sumbit')
+    click_on('submit')
   end
 
 end
