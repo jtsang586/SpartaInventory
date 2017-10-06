@@ -30,4 +30,8 @@ class SpartaInventoryNavBar
     click_link('New Academy')
   end
 
+  def logout_button
+    find_link('Logout')
+  end
+
 end
